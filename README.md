@@ -18,6 +18,4 @@ It includes implementations of various ML algorithms, research work, and hands-o
 
 
 
-📌 Stay tuned for updates! 🚀
-
-
+📌 Stay tuned for updates!
